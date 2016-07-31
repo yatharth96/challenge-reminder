@@ -1,5 +1,5 @@
 # challenge-reminder
-Get mobile text reminders for upcoming coding challenges.
+Get text reminders for upcoming coding challenges.
 
 ### Version
  - Python 2.7.x
