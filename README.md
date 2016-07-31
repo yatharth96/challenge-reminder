@@ -17,3 +17,7 @@ Get text reminders for upcoming coding challenges.
 3. For **Linux**:Using *cron* set the script to run automatically at reboot/user logi.n
 4. Run the script and add the time at which you want to get notified.
 5. In future if you wish to change the timings,go to directory with main.py and delete **timings.txt** and repeat *step 4*.
+
+### Features
+ - Fully automated
+ - Get reminders of challenges from **CodeChef,Codeforces,TopCoder,HackerRank** and **HackerEarth**
